@@ -6,11 +6,12 @@
         "maxAds": 100,
         "adInterval": 0
     },
-    "preload": false,
+    "preload": true,
     "type": "solo",
     "title": "A Very",
     "name": "a-very",
     "channelId": "118363521",
     "layout": "bootstrap",
-    "autoplay": false
+    "autoplay": true,
+    "autonext": false
 }
