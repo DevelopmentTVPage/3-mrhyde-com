@@ -1,7 +1,7 @@
 {
     "advertising": {
         "enabled": true,
-        "adServerUrl": null,
+        "adServerUrl": "www.youtubes.com",
         "adTimeout": 2000,
         "maxAds": 100,
         "adInterval": 0
